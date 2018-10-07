@@ -2,40 +2,16 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>V2/*.java</mask>
-      <mask>M/*.java</mask>
-      <mask>Me/*.java</mask>
-      <mask>Met/*.java</mask>
-      <mask>Meta/*.java</mask>
-      <mask>Metad/*.java</mask>
-      <mask>Metada/*.java</mask>
-      <mask>Metadata/*.java</mask>
-      <mask>/Metadata/*.java</mask>
-      <mask>/Metadata/*</mask>
-      <mask>/Metadata/</mask>
-      <mask>Metadata/</mask>
-      <mask>Metadata</mask>
-      <mask>Metadat</mask>
-      <mask>.</mask>
-      <mask>.x</mask>
-      <mask>.xm</mask>
-      <mask>.xml</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gra</mask>
-      <mask>*.gradel</mask>
-      <mask>*.grade</mask>
-      <mask>*.gradke</mask>
-      <mask>*.gradk</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradle</mask>
-      <mask>*.java</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
