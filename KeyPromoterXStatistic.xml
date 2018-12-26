@@ -9,20 +9,20 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build">
+        <Item>
+          <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
+          <ShortCut>'Alt+2'</ShortCut>
+          <Description>Build</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Declaration">
-        <Item>
-          <IdeaActionID>GotoDeclaration</IdeaActionID>
-          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
-          <Description>Declaration</Description>
-          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -38,7 +38,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -78,7 +78,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'bb-app'</Description>
-          <Count>4</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -103,6 +103,16 @@
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>50</Count>
         </Item>
       </Statistic>
     </option>
