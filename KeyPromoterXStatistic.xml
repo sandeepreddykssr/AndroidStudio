@@ -14,7 +14,7 @@
           <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Build</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -94,7 +94,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'bb-app'</Description>
-          <Count>36</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
