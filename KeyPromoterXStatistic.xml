@@ -17,6 +17,14 @@
           <Count>37</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build APK(s)">
+        <Item>
+          <IdeaActionID>Android.BuildApk</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
+          <Description>Build APK(s)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
@@ -78,7 +86,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
