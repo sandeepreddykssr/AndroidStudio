@@ -14,7 +14,7 @@
           <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Build</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build APK(s)">
@@ -78,7 +78,15 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>8</Count>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide Grid">
+        <Item>
+          <IdeaActionID>Images.Editor.ToggleGrid</IdeaActionID>
+          <ShortCut>'Ctrl+Quote'</ShortCut>
+          <Description>Hide Grid</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -110,7 +118,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -158,7 +166,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'bb-app'</Description>
-          <Count>118</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -175,6 +183,14 @@
           <ShortCut>'Alt+Shift+A'</ShortCut>
           <Description>Show All Affected Files</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Grid">
+        <Item>
+          <IdeaActionID>Images.Editor.ToggleGrid</IdeaActionID>
+          <ShortCut>'Ctrl+Quote'</ShortCut>
+          <Description>Show Grid</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
