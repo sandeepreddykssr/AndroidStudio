@@ -310,7 +310,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>109</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -334,7 +334,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -350,7 +350,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>262</Count>
+          <Count>263</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
