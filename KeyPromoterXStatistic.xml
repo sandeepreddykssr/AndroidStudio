@@ -206,7 +206,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CreditCardSlideProviderTest.baseEligFlowTest'">
@@ -239,6 +239,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'bb-app'</Description>
           <Count>181</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'slidesSkippedWithP...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'slidesSkippedWithP...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
