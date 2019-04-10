@@ -57,6 +57,14 @@
           <Count>52</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CreditCardSlideProviderTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'CreditCardSlideProviderTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'bb-app'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -209,6 +217,14 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CreditCardSlideProviderTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'CreditCardSlideProviderTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CreditCardSlideProviderTest.baseEligFlowTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -350,7 +366,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>214</Count>
+          <Count>218</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -366,7 +382,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
