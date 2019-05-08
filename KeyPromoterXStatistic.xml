@@ -22,7 +22,7 @@
           <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Build</Description>
-          <Count>151</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build APK(s)">
