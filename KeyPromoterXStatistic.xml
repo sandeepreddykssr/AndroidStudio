@@ -542,7 +542,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>324</Count>
+          <Count>326</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
