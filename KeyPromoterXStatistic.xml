@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CreditCardSlideProviderTest'">
@@ -94,7 +94,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'bb-app'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>104</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -366,7 +366,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'bb-app'</Description>
-          <Count>249</Count>
+          <Count>253</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'java in bb-app'">
@@ -502,7 +502,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>310</Count>
+          <Count>314</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -542,7 +542,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>345</Count>
+          <Count>347</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
