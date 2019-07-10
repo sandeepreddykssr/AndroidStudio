@@ -366,7 +366,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'bb-app'</Description>
-          <Count>267</Count>
+          <Count>268</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'java in bb-app'">
