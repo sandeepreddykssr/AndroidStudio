@@ -22,7 +22,7 @@
           <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Build</Description>
-          <Count>202</Count>
+          <Count>203</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build APK(s)">
@@ -366,7 +366,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'bb-app'</Description>
-          <Count>329</Count>
+          <Count>331</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'java in bb-app'">
@@ -494,7 +494,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>136</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -542,7 +542,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>379</Count>
+          <Count>380</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
