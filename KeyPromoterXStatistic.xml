@@ -22,7 +22,7 @@
           <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Build</Description>
-          <Count>204</Count>
+          <Count>205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build APK(s)">
@@ -366,7 +366,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'bb-app'</Description>
-          <Count>331</Count>
+          <Count>333</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'java in bb-app'">
@@ -398,7 +398,7 @@
           <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
           <ShortCut>'Alt+Shift+A'</ShortCut>
           <Description>Show All Affected Files</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -542,7 +542,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>380</Count>
+          <Count>387</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
