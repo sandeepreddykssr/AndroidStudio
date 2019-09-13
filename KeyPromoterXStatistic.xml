@@ -6,7 +6,7 @@
           <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Build</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
